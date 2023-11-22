@@ -134,7 +134,7 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-<img width="960" alt="server" src="https://github.com/KAVIYADHARANI/MathServer/assets/144870680/dade3ac7-40f0-48ae-8142-2d640dde0a7f">
+<img width="960" alt="math" src="https://github.com/KAVIYADHARANI/MathServer/assets/144870680/686055ba-e7d6-473a-99eb-b10f34b06fde">
 
 ## HOMEPAGE:
 <img width="960" alt="square prism" src="https://github.com/KAVIYADHARANI/MathServer/assets/144870680/7526364a-c649-48ac-83ae-747c7fdfd0e5">
