@@ -134,8 +134,10 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![Alt text](server.png)
+<img width="960" alt="math" src="https://github.com/KAVIYADHARANI/MathServer/assets/144870680/686055ba-e7d6-473a-99eb-b10f34b06fde">
+
 ## HOMEPAGE:
-![Alt text](<square prism.png>)
+<img width="960" alt="square prism" src="https://github.com/KAVIYADHARANI/MathServer/assets/144870680/7526364a-c649-48ac-83ae-747c7fdfd0e5">
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
