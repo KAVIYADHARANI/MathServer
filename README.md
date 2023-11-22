@@ -135,14 +135,7 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 ![Alt text](server.png)
-
-
-
 ## HOMEPAGE:
-
-
 ![Alt text](<square prism.png>)
-
-
 ## RESULT:
 The program for performing server side processing is completed successfully.
