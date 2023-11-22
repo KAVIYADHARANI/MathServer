@@ -134,10 +134,14 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
+
+
 ![Alt text](math.png)
 
 
 ## HOMEPAGE:
+
+
 ![Alt text](prism.png)
 
 
